@@ -1,3 +1,3 @@
 # Smiley-War
 
-Platform/shooter multiplayer game in Java.
+A pacman + shooter mixed game in Java.
